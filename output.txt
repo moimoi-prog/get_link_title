@@ -1,0 +1,9 @@
+Riverpodで状態管理 | Flutterで始めるアプリ開発|https://www.flutter-study.dev/firebase-app/riverpod
+FlutterのRiverpodのProvider種類のメモ - Qiita|https://qiita.com/ika020202/items/5bb39e5bb1645b38d4b8
+[Flutter]コピペで使える！ボタンのデザイン16種類をまとめました - Qiita|https://qiita.com/coka__01/items/30716f42e4a909334c9f
+【Flutter】Providerのほぼ上位互換、Riverpodの基本的な使い方｜TechRacho by BPS株式会社|https://techracho.bpsinc.jp/wingdoor/2020_10_08/97815
+【Flutter】引数を持つコールバック関数を子 Widget で実行したい|https://zenn.dev/hassan/articles/81fa728f140aa3
+Flutter で print 出力を得たい - Qiita|https://qiita.com/kappaLab/items/602fcdaaa076efa59c3b
+DartのMixinについての解説 (Dart 2.1対応) - ntaoo blog|https://ntaoo.hatenablog.com/entry/2018/12/02/192827
+リンク　タイトル　スクレイピング - Google 検索|https://www.google.com/search?q=%E3%83%AA%E3%83%B3%E3%82%AF%E3%80%80%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E3%80%80%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0
+ページからタイトルを取得する。Pythonスクレイピングの基礎 | Python CodeRecipe|https://coderecipe.org/scraping/gettitle.html
